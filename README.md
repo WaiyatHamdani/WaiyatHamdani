@@ -19,7 +19,7 @@ My experiences in the military and tech industry have shaped me into a resilient
 - [WaiyatCaloriesTracker](https://github.com/WaiyatHamdani/WaiyatCalorieTracker): Is A calories Tracker for each individual , This project Using Spring Java , React and Postgress.
 
 
-##📫 How to reach me: ...
+## 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/waiyat-hamdani-01777717a/)
 - [Email](mailto:waiyat.hamdani@gmail.com)
 
