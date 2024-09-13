@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Waiyat !!
 
-I’m a a US Army veteran and a proud graduate of Southern Connecticut State University (SCSU) with a bachelor’s degree in Computer Science. 
+I’m a a US Army veteran and a proud graduate of Southern Connecticut State University (SCSU) on May 2020 with a bachelor’s degree in Computer Science. 
 I previously worked as an Application Engineer V at Bank of America, where I developed web scrapers and implemented unit testing. 
 I'm inspired to become a full stack developer or data scientist, driven by my passion for problem-solving and innovation. 
 My experiences in the military and tech industry have shaped me into a resilient, detail-oriented professional with a strong focus on teamwork and continuous learning.
