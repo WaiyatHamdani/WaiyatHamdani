@@ -18,7 +18,7 @@ My experiences in the military and tech industry have shaped me into a resilient
 - [WaiyatCaloriesTracker](https://github.com/WaiyatHamdani/WaiyatCalorieTracker): Is A calories Tracker for each individual , This project Using Spring Java , React and Postgress.
 
 ## My Note
--[interview question note](Note\InterviewQuestion\InterviewQuestion.md)
+-[interview question note](Note/InterviewQuestion/InterviewQuestion.md)
   
 <!--
 **WaiyatHamdani/WaiyatHamdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
