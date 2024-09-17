@@ -7,7 +7,7 @@
   - [useEffect](#use-effect)
   - [useContext](#use-context)
 - [Axios](#axios)
-
+- [Map Looping](#map-looping)
 
 ## Basic Functional Component
 
@@ -163,4 +163,23 @@ export default function App() {
             'Accept': 'application/json',
           },
         });
+```
+
+### Map Looping
+```tsx
+  import React from 'react';
+
+  function ItemList() {
+      const items = ['kunai', 'shuriken', 'katana', 'bow'];
+
+      return (
+        <ul>
+          {items.map((item, index) => (
+            <li key={index}>{item}</li> // for each element
+          ))}
+        </ul>
+      );
+  }
+
+export default ItemList;
 ```
