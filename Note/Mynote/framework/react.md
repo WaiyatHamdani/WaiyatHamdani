@@ -7,6 +7,7 @@
   - [useEffect](#use-effect)
   - [useContext](#use-context)
 - [Axios](#axios)
+- [Router](#router)
 - [Map Looping](#map-looping)
 
 ## Basic Functional Component
@@ -182,4 +183,21 @@ export default function App() {
   }
 
 export default ItemList;
+```
+
+### Router
+npm install react-router-dom
+```tsx
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+
+function App() {
+  return (
+    <Router>
+      <Switch>
+        <Route path="/home" component={Home} />
+        <Route path="/about" component={About} />
+      </Switch>
+    </Router>
+  );
+}
 ```
