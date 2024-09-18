@@ -164,7 +164,7 @@ class Person {
 
 // Create an instance
 let person1 = new Person('Eunchae', 25);
-person1.greet(); // Hello, my name is Alice
+person1.greet(); // Hello, my name is Eunchae
 ```
 
 ## Promises and Async/Await

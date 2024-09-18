@@ -69,6 +69,12 @@ export default NameInput;
 ```
 
 ### Use Effect
+basic syntax
+```tsx
+useEffect(() => {
+}, []); 
+```
+how to use it 
 ```tsx
 import React, { useState, useEffect } from 'react';
 
