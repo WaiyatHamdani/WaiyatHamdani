@@ -7,8 +7,8 @@ My experiences in the military and tech industry have shaped me into a resilient
 
 
 ## My Skills
-- **Languages**: Python, JavaScript, Java, SQL
-- **Frameworks**: React, Node.js, Flask,
+- **Languages**: Python, JavaScript, Java
+- **Frameworks**: React, Node.js, Flask
 - **Tools**: Docker, Git
 - **Databases**: MySQL, PostgreSQL, SqlLite
 
