@@ -5,13 +5,11 @@ I'm inspired to become a full stack developer or data scientist, driven by my pa
 My experiences in the military and tech industry have shaped me into a resilient, detail-oriented professional with a strong focus on teamwork and continuous learning.
 [More About Me](https://waiyathamdani.github.io/index.html)
 
-
 ## My Skills
 - **Languages**: Python, JavaScript, Java
 - **Frameworks**: React, Node.js, Flask
 - **Tools**: Docker, Git
 - **Databases**: MySQL, PostgreSQL, SqlLite
-
 
 ## 🔭 I’m currently working on ...
 - [WaiyatSocialMedia](https://github.com/WaiyatHamdani/WaiyatSocialMedia): Is A Social media app using React, Spring Java and PostgreSql.
