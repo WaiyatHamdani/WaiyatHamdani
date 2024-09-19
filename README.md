@@ -12,7 +12,7 @@ My experiences in the military and tech industry have shaped me into a resilient
 - **Databases**: MySQL, PostgreSQL, SqlLite
 
 ## 🔭 I’m currently working on ...
-- [WaiyatDungeonAndDragon](https://github.com/WaiyatHamdani/WaiyatSocialMedia): Is D&D practicing using Javalin , JDBC Api and React Framework
+- [WaiyatDungeonAndDragon](https://github.com/WaiyatHamdani/WaiyatDungeonAndDragon): Is D&D practicing using Javalin , JDBC Api and React Framework
 - [WaiyatCaloriesTracker](https://github.com/WaiyatHamdani/WaiyatCalorieTracker): Is A calories Tracker for each individual , This project Using Spring Java , React and Postgress.
 
 ## 📝 My Note ...
