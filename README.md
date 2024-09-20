@@ -5,19 +5,18 @@ I'm inspired to become a full stack developer or data scientist, driven by my pa
 My experiences in the military and tech industry have shaped me into a resilient, detail-oriented professional with a strong focus on teamwork and continuous learning.
 [More About Me](https://waiyathamdani.github.io/index.html)
 
+## 🔭 I’m currently working on ...
+- [WaiyatCaloriesTracker](https://github.com/WaiyatHamdani/WaiyatCalorieTracker): Is A calories Tracker for each individual , This project Using Spring Java , React and Postgress.
+- 
+## 📝 My Note ...
+- [Syntax/language Note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/Mynote/Mynote.md)
+- [interview question note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/InterviewQuestion/InterviewQuestion.md)
+
 ## My Skills
 - **Languages**: Python, JavaScript, Java
 - **Frameworks**: React, Node.js, Flask
 - **Tools**: Docker, Git
 - **Databases**: MySQL, PostgreSQL, SqlLite
-
-## 🔭 I’m currently working on ...
-- [WaiyatCaloriesTracker](https://github.com/WaiyatHamdani/WaiyatCalorieTracker): Is A calories Tracker for each individual , This project Using Spring Java , React and Postgress.
-- [WaiyatDungeonAndDragon](https://github.com/WaiyatHamdani/WaiyatDungeonAndDragon): Is D&D practicing using Javalin , JDBC Api and React Framework
-
-## 📝 My Note ...
-- [Syntax/language Note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/Mynote/Mynote.md)
-- [interview question note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/InterviewQuestion/InterviewQuestion.md)
   
 <!--
 **WaiyatHamdani/WaiyatHamdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
