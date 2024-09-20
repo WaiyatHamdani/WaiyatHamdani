@@ -7,7 +7,7 @@ My experiences in the military and tech industry have shaped me into a resilient
 
 ## 🔭 I’m currently working on ...
 - [WaiyatCaloriesTracker](https://github.com/WaiyatHamdani/WaiyatCalorieTracker): Is A calories Tracker for each individual , This project Using Spring Java , React and Postgress.
-- 
+- [WaiyatSocialMedia](https://github.com/WaiyatHamdani/WaiyatSocialMedia) : is a social media using react and springbooth java
 ## 📝 My Note ...
 - [Syntax/language Note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/Mynote/Mynote.md)
 - [interview question note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/InterviewQuestion/InterviewQuestion.md)
