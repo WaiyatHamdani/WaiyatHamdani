@@ -14,7 +14,7 @@ My experiences in the military and tech industry have shaped me into a resilient
 - [interview question note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/InterviewQuestion/InterviewQuestion.md)
 
 ## My Skills
-- **Languages**: Python, JavaScript, Java
+- **Languages**: Python, JavaScript, Java ,Kotlin
 - **Frameworks**: React, Node.js, Flask
 - **Tools**: Docker, Git
 - **Databases**: MySQL, PostgreSQL, SqlLite
