@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is Waiyat !!
 
 I’m a a US Army veteran and a proud graduate of Southern Connecticut State University (SCSU) on May 2020 with a bachelor’s degree in Computer Science. 
-I'm inspired to become a full stack developer or data scientist, driven by my passion for problem-solving and innovation. 
-My experiences in the military and tech industry have shaped me into a resilient, detail-oriented professional with a strong focus on teamwork and continuous learning.
+I'm inspired to become a full stack developer or Adroid App, driven by my passion for problem-solving and innovation. 
+My experiences in the military and tech industry have made me into a resilient, detail-oriented, teamwork and continuous learning.
 [More About Me](https://waiyathamdani.github.io/index.html)
 
 ## 🔭 I’m currently working on ...
