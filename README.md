@@ -18,7 +18,10 @@ My experiences in the military and tech industry have shaped me into a resilient
 - **Frameworks**: React, Node.js, Flask
 - **Tools**: Docker, Git
 - **Databases**: MySQL, PostgreSQL, SqlLite
-  
+
+
+## 🌱 I’m currently learning ...
+
 <!--
 **WaiyatHamdani/WaiyatHamdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
