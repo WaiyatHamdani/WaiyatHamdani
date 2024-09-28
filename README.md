@@ -8,7 +8,7 @@ My experiences in the military and tech industry have made me into a resilient, 
 ## 🔭 I’m currently working on ...
 - [WaiyatCaloriesTracker](https://github.com/WaiyatHamdani/WaiyatCalorieTracker): Is A calories Tracker for each individual , This project Using Spring Java , React and Postgress.
 - [WaiyatTaskManager](https://github.com/WaiyatHamdani/TaskManagerWH) : is A javalin - React application!!
-- [AndroidCalculator](https://github.com/WaiyatHamdani/AndroidCal) : this is just a project learning Android With Kotlin . To have better understanding about modern Android Developing!!
+- [AndroidCalculator](https://github.com/WaiyatHamdani/AndroidCal) : this project purpose is to learning "Android With Kotlin" . To have better understanding about modern Android Developing!!
   
 ## 📝 My Note ...
 - [Syntax/language Note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/Mynote/Mynote.md)
