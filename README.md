@@ -13,6 +13,7 @@ My experiences in the military and tech industry have made me into a resilient, 
 ## 📝 My Note ...
 - [Syntax/language Note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/Mynote/Mynote.md)
 - [interview question note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/InterviewQuestion/InterviewQuestion.md)
+- [Git Command Cheatsheet](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/Mynote/Tools/GitCommandCheatCheat.md)
 
 ## My Skills
 - **Languages**: Python, JavaScript, Java ,Kotlin
