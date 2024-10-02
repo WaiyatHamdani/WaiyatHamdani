@@ -11,7 +11,6 @@ I'm inspired to learn more about Fullstack, Data Science and problem-solving. My
   
 ## 📝 My Note ...
 - [Syntax/language Note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/Mynote/Mynote.md)
-- [interview question note](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/InterviewQuestion/InterviewQuestion.md)
 - [Git Command Cheatsheet](https://github.com/WaiyatHamdani/WaiyatNote/blob/main/Note/Mynote/Tools/GitCommandCheatCheat.md)
 
 ## My Skills
