@@ -20,7 +20,8 @@ I'm inspired to learn more about Fullstack, Data Science and problem-solving. My
 - **Databases**: MySQL, PostgreSQL, SqlLite
 
 
-## 🌱 I’m currently learning ...
+## ⚡ Fun fact:
+-[WaiyatNovel: Reborn As Vaelik: Dark Elf of Midnight bloom](https://github.com/WaiyatHamdani/RebornAsVaelikDarkElf/blob/main/README.md)
 
 
   
